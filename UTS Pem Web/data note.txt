@@ -1,0 +1,200 @@
+RedBull :
+- RB18 (2023) :
+The RB18 was a complete redesign, with a Red Bull Racing Power Train under the cover, 18-inch tyres replacing the 13-inch rubber that had been used for more than 50 years, a completely different-looking rear wing, and a new-look front wing.
+But it was the underbody and diffuser that was to make the biggest difference. It was designed to reduce the dirty air pushed out by the cars so it would encourage closer racing.
+Max Verstappen and Sergio Pérez dominated the season, taking 17 wins between them and a total of 28 podiums, including five one-two finishes.
+Max took his second title, and the team claimed their first Constructors' Championship since 2013.
+Driver : Max Verstappen 🇳🇱, Sergio Pérez 🇲🇽
+- Race Wins	: 17
+- Podiums	: 28
+- Points 	: 759
+Spesifications :
+Capacity : 16000cc
+RPM : 15000RPM
+Valves : 24
+Power Output : 900HP
+Engine : Honda
+
+- RB19 (2024) :
+The RB19 has proven to be the best Formula One car ever built. Powered by Honda once again, the RB19 was unstoppable in the hands of Max Verstappen and Sergio Pérez.
+In a 22-race season, the Bulls achieved 21 wins, a total of 30 podiums, and 15 pole positions.
+The RB19 broke multiple records, including the most points in a season, the most consecutive wins by a manufacturer, and Max broke Sebastian Vettel’s record of nine wins in a row, by making it ten. The season ended with the team scoring 860 points, finishing 451 points ahead of Mercedes in second place.
+Driver :Max Verstappen 🇳🇱, Sergio Pérez 🇲🇽
+- Race Wins	: 21
+- Podiums	: 30
+- Points 	: 860
+Spesifications :
+Capacity : 16000cc
+RPM : 15000RPM
+Valves : 24
+Power Output : 900HP
+Engine : Honda
+
+- RB20 (2025):
+The RB20 stayed true to Adrian Newey and his team’s vision for a faster car than every other team.
+With an altered front wing, updated cooling system and side pods, as well as improved suspension, the rest of the grid have been playing catch-up.
+Driven once again by Max Verstappen and Sergio Pérez, the RB20 is a menace on the track, continuing to deliver pole positions, podiums, and wins.
+Driver : Max Verstappen 🇳🇱, Yuki Tsunoda
+- Race Wins	: 9
+- Podiums	: 18
+- Points 	: 589
+Spesifications :
+Capacity : 16000cc
+RPM : 15000RPM
+Valves : 24
+Power Output : 900HP
+Engine : Honda
+
+
+Ferarri :
+- SF-23 (2023) :
+Although it can be regarded as an evolution of last year’s F1-75, it is a completely new car, based on experience gained last year, while maintaining the design philosophy of the large scalloped sides, with the aim of staying within the weight limit and reducing drag.
+Engine development is frozen, however a great deal of work went into fixing reliability issues, the team’s Achilles Heel last season. The root causes of the problems encountered on track were analysed in depth. The work went across all areas from design to experimentation to try and evaluate new solutions in a very short space of time.
+Driver : Charles Leclerc 🇲🇨, Carlos Sainz 🇪🇸
+- Race Wins	: 1
+- Podiums	: 9
+- Points 	: 406
+Spesifications :
+Capacity : 16000cc
+RPM : 15000RPM
+Valves : 24
+Power Output : 900HP
+Engine : V6
+
+- SF-24 (2024) :
+The SF-24 is the third car of the new Formula 1 ground effect generation, but it breaks with the tradition of the past two years, starting with the look of it. The design group, led by Enrico Cardile, aimed to give Charles and Carlos a car that is easy to drive and that reacts predictably, with as a starting point, the positive feeling the drivers had in the cockpit over the final few races of last season. The goal is to allow them to make the most of the power unit’s potential, combined with their undoubted skill behind the wheel.
+Driver : Charles Leclerc 🇲🇨, Carlos Sainz 🇪🇸
+- Race Wins	: 5
+- Podiums	: 22
+- Points 	: 652
+Spesifications :
+Capacity : 16000cc
+RPM : 15000RPM
+Valves : 24
+Power Output : 900HP
+Engine : V6
+
+SF-25 (2025) :
+The livery has changed significantly, presenting a perfect mix of past, present and future, with a declaration of style, power and tradition.
+The darker shade of 2025 Racing Red with its matte finish evokes decades of racing, taking its inspiration from the intense tones of the early days of the Scuderia, with an angled, bold white band standing out as a distinctive feature on the car, symbolising dynamism and a vision that looks to the future.
+Driver : Charles Leclerc 🇲🇨, Lewis Hamilton
+- Race Wins	: 0
+- Podiums	: 5
+- Points 	: 298
+Spesifications :
+Capacity : 16000cc
+RPM : 15000RPM
+Valves : 24
+Power Output : 900HP
+Engine : V6
+
+Mercedes :
+W-14 (2023) : Forged from the lessons learned in a challenging 2022, the W14 is a stunning addition. The basic concept of the W13 has been retained, and development has focused on core performance areas. This results in a car that retains the distinctive DNA of its predecessor while introducing a combination of key changes visible at first glance – such as the gulley bodywork on the engine cover – and others beneath the surface. The car's striking appearance extends beyond its architecture. The iconic black livery from 2020 and 2021 has been refined as part of a significant project to reduce overall weight. Driving the W14 are Lewis Hamilton and George Russell, who will join forces for their second season together, supported by Mick Schumacher in his third driver role.
+Driver : Lewis Hamilton dan George Russell
+- Race Wins	: 0
+- Podiums	: 8
+- Points 	: 409
+Spesifications :
+Capacity : 16000cc
+RPM : 15000RPM
+Valves : 24
+Power Output : 1000HP
+Engine : V6
+
+W-15 (2024) : “The design of any car is an iterative process. And a long one at that,” Technical Director James Allison explained. “It stretches back to last year. A new car enables the team to make bigger alterations that are not possible during the season. These are decisions that are taken during the preceding summer.” These changes include a new chassis, and new gearbox casing. Aerodynamically, as ever, the focus has been on efficiency, the endless quest for finding more downforce with less drag and delivering it to the tack in a manner that complements the function of the suspension and tyres.
+Driver : Lewis Hamilton dan George Russell
+- Race Wins	: 4
+- Podiums	: 9
+- Points 	: 468
+Spesifications :
+Capacity : 16000cc
+RPM : 15000RPM
+Valves : 24
+Power Output : 1000HP
+Engine : V6
+
+W-16 (2025) : The Mercedes W16 marks a new era for the Silver Arrows, blending evolution and revolution after years of learning from the ground effect regulations. Built upon the foundation of the W15, the W16 introduces a completely re-engineered power unit integration, lighter chassis, and a more compact aerodynamic package that improves overall balance and straight-line efficiency.
+Driver : George Russell dan Andrea Kimi Antonelli
+- Race Wins	: 3
+- Podiums	: 10
+- Points 	: 472
+Spesifications :
+Capacity : 16000cc
+RPM : 15000RPM
+Valves : 24
+Power Output : 1050HP
+Engine : Mercedes-AMG F1 M15 E Performance (V6 Turbo Hybrid)
+
+McLaren :
+MCL60 (2023) : The MCL60 marked McLaren’s 60th anniversary in Formula 1 and represented a turning point for the team. Initially struggling in the early races, the car underwent significant upgrades mid-season that dramatically improved its pace and competitiveness. With Lando Norris and rookie Oscar Piastri behind the wheel, McLaren became one of the strongest teams in the second half of the year, consistently fighting for podiums.
+Driver : Lando Norris dan Oscar Piastri
+- Race Wins	: 1
+- Podiums	: 9
+- Points 	: 302
+Spesifications :
+Capacity : 16000cc
+RPM : 1500RPM
+Valves : 24
+Power Output : 950HP
+Engine : Mercedes
+
+MCL38 (2024): Designed for the 2024 season, the MCL38 builds on the successful foundation of the MCL60 with improved aerodynamics, refined suspension geometry, and a lighter chassis. The car’s front wing and sidepod redesign improved airflow management, allowing for better tire performance over long stints. Lando Norris and Oscar Piastri continued their strong partnership, frequently challenging Red Bull and Ferrari.
+Driver : Lando Norris dan Oscar Piastri
+- Race Wins	: 4
+- Podiums	: 14
+- Points 	: 527
+Spesifications :
+Capacity : 16000cc
+RPM : 15000RPM
+Valves :24
+Power Output : 950HP
+Engine : Mercedes
+
+MCL39 (2025) : The MCL39 represents McLaren’s step into 2025, evolving further from the aerodynamic success of the MCL38. It features a new floor concept and improved cooling layout for greater efficiency and top speed. Under the same driver pairing, McLaren aimed to close the final performance gap to Red Bull, turning their 2024 consistency into real title contention.
+Driver : Lando Norris dan Oscar Piastri
+- Race Wins	: 2
+- Podiums	: 10
+- Points 	: 475
+Spesifications :
+Capacity : 16000cc
+RPM : 15000RPM
+Valves : 24
+Power Output : 970HP
+Engine : Mercedes
+
+Aston Martin :
+AMR23 (2023) : The AMR23 was one of the surprises of the 2023 season, making a huge leap in performance compared to its predecessor. Fernando Alonso’s experience and Lance Stroll’s consistency helped the team secure multiple podiums in the first half of the year. The car’s aerodynamics drew inspiration from Red Bull’s concept but retained Aston Martin’s unique engineering character.
+Driver : Fernando Alonso dan Lance Stroll
+- Race Wins	: 0
+- Podiums	: 8
+- Points 	: 280
+Spesifications :
+Capacity : 16000cc
+RPM : 15000RPM
+Valves : 24
+Power Output : 950HP
+Engine : Mercedes
+
+AMR24 (2024) : For 2024, Aston Martin refined the AMR23 concept, focusing on weight distribution and mid-corner balance. The team’s technical staff, led by Dan Fallows, introduced upgrades that improved traction and tire wear. While not yet matching Red Bull or Ferrari, Aston Martin remained a solid top-5 contender.
+Driver : Fernando Alonso dan Lance Stroll
+- Race Wins	: 1
+- Podiums	: 6
+- Points 	: 354
+Spesifications :
+Capacity : 16000cc
+RPM : 15000RPM
+Valves : 24
+Power Output : 950HP
+Engine : Mercedes
+
+AMR25 (2025) : The AMR25 continues the evolution of Aston Martin’s aerodynamic philosophy, combining aggressive downforce with efficiency. With the 2025 regulations still stable, the car’s focus is on reducing drag while maximizing straight-line speed. Fernando Alonso, still one of the most experienced drivers on the grid, continues to push the limits of the team’s development.
+Driver : Fernando Alonso dan Lance Stroll
+- Race Wins	: 0
+- Podiums	: 4
+- Points 	: 298
+Spesifications :
+Capacity : 16000cc
+RPM : 15000RPM
+Valves : 24
+Power Output : 950HP
+Engine : Mercedes
