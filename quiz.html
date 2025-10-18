@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz F1</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="data.js" defer></script>
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <nav>
+      <a href="index.html" class="logo">
+        <span class="logo-text"><span class="red-f">F</span>anatic</span>
+        <span class="logo-f1">1</span>
+      </a>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="classification.html">Classification</a></li>
+        <li><a href="comparison.html">Comparison</a></li>
+        <li><a href="quiz.html" class="active">Quiz</a></li>
+      </ul>
+    </nav>
+
+    <div class="page-banner">
+      <h1>Quiz F1</h1>
+    </div>
+
+    <div class="quiz-container">
+      <div class="quiz-stats-container">
+        <div class="quiz-stat-box">
+          <div id="quiz-progress" class="quiz-stat-text">Pertanyaan 1</div>
+        </div>
+        <div class="quiz-stat-box">
+          <div id="quiz-score" class="quiz-stat-text">Skor: 0</div>
+        </div>
+      </div>
+      <div class="quiz-question-container">
+        <h2 id="quiz-question"></h2>
+      </div>
+      <div id="quiz-options"></div>
+      <div class="quiz-footer">
+        <button id="next-btn" class="btn red" disabled>Berikutnya</button>
+      </div>
+    </div>
+  </body>
+</html>
